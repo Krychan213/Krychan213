@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krychan213
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, python and also i'm opened for other languages
+- 🌱 I’m currently learning c++, python and also i'm opento learn other languages
 - 💞️ I’m looking for collaboration. My goal is to work in IT and expand my knowledge in programming
 - 📫 You can find me on:
 - Facebook: https://www.facebook.com/krystian.kupc
